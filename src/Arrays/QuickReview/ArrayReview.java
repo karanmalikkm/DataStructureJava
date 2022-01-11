@@ -1,4 +1,7 @@
 /*
+
+This is a basic program to understand operations on array in java
+
     Q) Write a basic code for push, pop, get and delete functions for a static array.
     Note:
     1. Array size can be increased based on push element calls.
