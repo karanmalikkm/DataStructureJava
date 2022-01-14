@@ -1,5 +1,8 @@
 /*
 Q) Find the maximum submatrix sum from a given N*M matrix
+
+Solution to this problem lies in reducing the time complexity using the Column prefix matrix and Kadane's Algo
+
  */
 package AdvancedArrays.Matrix.Submatrix;
 import java.util.Scanner;
