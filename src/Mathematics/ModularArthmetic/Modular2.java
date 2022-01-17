@@ -91,7 +91,7 @@ public class Modular2 {
         }
         //Calculate for M/2 if it is integer value with nC2 pairs
         if(start==end){
-            int t1 = hm.get(start);
+            int t1 = hm.getOrDefault(start,0);
             ans += ((t1*(t1-1))/2);
         }
         return ans;
